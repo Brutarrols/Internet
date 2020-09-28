@@ -121,6 +121,7 @@ header em
     color: white;
     text-align: center;
     padding: 20px;
+    box-shadow: 3px 3px 5px black;
 }
 #add button
 {
@@ -215,6 +216,7 @@ ul ol
 {
     border: 5px solid blue ;
     font-size: 15px;
+    box-shadow: 3px 3px 5px black;
 }
 #footer img
 {
