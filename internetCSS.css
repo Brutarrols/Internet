@@ -202,12 +202,7 @@ header em
 {
     width: 40%;
 }
-ul li
-{
-    margin: 3px 1px;
-    padding: 3px 1px;
-}
-ul ol
+li
 {
     margin: 3px 1px;
     padding: 3px 1px;
